@@ -11,10 +11,14 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>guli-common</module>
+        <module>guli-gateway</module>
         <module>guli-coupon</module>
         <module>guli-member</module>
         <module>guli-order</module>
         <module>guli-product</module>
         <module>guli-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 </project>
