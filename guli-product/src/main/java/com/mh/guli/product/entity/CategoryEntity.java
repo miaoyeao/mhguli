@@ -26,7 +26,7 @@ public class CategoryEntity implements Serializable {
 	private Long catId;
 	/**
 	 * 分类名称
-	 */
+//	 */
 	private String name;
 	/**
 	 * 父分类id
