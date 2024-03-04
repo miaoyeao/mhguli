@@ -11,6 +11,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * 2. 数据源配置
  * 3. mapperscan
  * 4. xml配置
+ *
+ * mybatisplus逻辑删除
+ *
  */
 @MapperScan("com.mh.guli.product.dao")
 @EnableDiscoveryClient

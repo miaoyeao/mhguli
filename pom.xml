@@ -20,5 +20,6 @@
         <module>guli-ware</module>
         <module>renren-fast</module>
         <module>renren-generator</module>
+        <module>third-party</module>
     </modules>
 </project>

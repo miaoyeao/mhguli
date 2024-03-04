@@ -1,0 +1,18 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    alicloud:
+      oss:
+        endpoint: oss-cn-beijing.aliyuncs.com
+        bucket: gulimall-miaoheng
+      access-key: LTAI5tLX42ZiX5GTwna1X5yc
+      secret-key: PzU3j9bRr0YUkWfyWZX7TRy0dyJHEx
+
+server:
+  port: 11001
+
+logging:
+  level:
+    com.mh.guli: debug
